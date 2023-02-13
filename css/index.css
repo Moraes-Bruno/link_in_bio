@@ -91,4 +91,13 @@ footer > p,a{
     text-decoration: none;
 }
 
+@media (max-width:600px){
+    header{
+        margin-top: 1.3em;
+    }
+
+    footer{
+        height: 10px;
+    }
+}
 
